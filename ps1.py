@@ -1,0 +1,1 @@
+(a and b and (c or d or e)) or (a and c and (d or e)) or (b and c and (d or e)) or ((a or b or c) and d and e)
